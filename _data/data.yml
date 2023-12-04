@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Dr Owen Huw Weeks
     tagline: Medical Expert Witness
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Owen_face.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: owen.weeks@wales.nhs.uk
